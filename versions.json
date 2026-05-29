@@ -1,0 +1,97 @@
+﻿[
+    {
+        "id":  "d4e6t5prjar79kbvrp9n",
+        "function_id":  "d4epvu78s1sm9ji56omk",
+        "created_at":  "2026-03-15T09:59:38.024Z",
+        "runtime":  "python314",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "536870912"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "103415808",
+        "status":  "ACTIVE",
+        "tags":  [
+                     "$latest"
+                 ],
+        "environment":  {
+                            "GOOGLE_CLIENT_EMAIL":  "\u003credacted\u003e",
+                            "GOOGLE_PRIVATE_KEY":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4evs3rv9plnr92shhoj",
+        "function_id":  "d4epvu78s1sm9ji56omk",
+        "created_at":  "2026-03-13T09:56:37.490Z",
+        "runtime":  "python314",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "536870912"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "103415808",
+        "status":  "OBSOLETE",
+        "environment":  {
+                            "GOOGLE_CLIENT_EMAIL":  "\u003credacted\u003e",
+                            "GOOGLE_PRIVATE_KEY":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4erc6cnfssm0rpgt1e4",
+        "function_id":  "d4epvu78s1sm9ji56omk",
+        "created_at":  "2026-03-13T09:53:59.053Z",
+        "runtime":  "python314",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "536870912"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "103411712",
+        "status":  "OBSOLETE",
+        "environment":  {
+                            "GOOGLE_CLIENT_EMAIL":  "\u003credacted\u003e",
+                            "GOOGLE_PRIVATE_KEY":  "\u003credacted\u003e"
+                        },
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    },
+    {
+        "id":  "d4ee8ep1pbussk4qjcht",
+        "function_id":  "d4epvu78s1sm9ji56omk",
+        "created_at":  "2026-03-13T09:51:17.879Z",
+        "runtime":  "python314",
+        "entrypoint":  "index.handler",
+        "resources":  {
+                          "memory":  "536870912"
+                      },
+        "execution_timeout":  "600s",
+        "image_size":  "103411712",
+        "status":  "OBSOLETE",
+        "log_options":  {
+                            "folder_id":  "b1gnufc37haf3rrd9ion"
+                        },
+        "concurrency":  "1",
+        "metadata_options":  {
+
+                             }
+    }
+]
